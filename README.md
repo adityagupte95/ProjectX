@@ -1,4 +1,4 @@
 # ProjectX
 ProjectX
 
-Google doc: shorturl.at/zBDN7
+Document with research papers: [Google doc](shorturl.at/zBDN7)
